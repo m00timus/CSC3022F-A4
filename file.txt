@@ -1,0 +1,10 @@
+Cluster 0: five_10.ppm four_5.ppm zero_7.ppm 
+Cluster 1: one_1.ppm one_10.ppm one_2.ppm one_3.ppm one_4.ppm one_5.ppm one_6.ppm one_7.ppm one_8.ppm one_9.ppm seven_1.ppm seven_10.ppm seven_2.ppm seven_3.ppm seven_4.ppm seven_5.ppm seven_6.ppm seven_7.ppm seven_8.ppm seven_9.ppm 
+Cluster 2: three_1.ppm three_10.ppm three_2.ppm three_3.ppm three_4.ppm three_6.ppm three_7.ppm 
+Cluster 3: two_1.ppm two_10.ppm two_3.ppm two_4.ppm two_6.ppm two_8.ppm two_9.ppm 
+Cluster 4: three_5.ppm three_9.ppm two_2.ppm two_5.ppm two_7.ppm 
+Cluster 5: three_8.ppm 
+Cluster 6: five_1.ppm five_2.ppm five_3.ppm five_4.ppm five_5.ppm five_6.ppm five_7.ppm five_8.ppm five_9.ppm nine_1.ppm nine_10.ppm nine_2.ppm nine_3.ppm nine_4.ppm nine_5.ppm nine_6.ppm nine_7.ppm nine_8.ppm nine_9.ppm six_1.ppm six_10.ppm six_2.ppm six_3.ppm six_4.ppm six_5.ppm six_6.ppm six_7.ppm six_8.ppm six_9.ppm zero_1.ppm zero_10.ppm zero_2.ppm zero_3.ppm zero_4.ppm zero_5.ppm zero_6.ppm zero_8.ppm zero_9.ppm 
+Cluster 7: eight_1.ppm eight_10.ppm eight_2.ppm eight_3.ppm eight_4.ppm eight_5.ppm eight_6.ppm eight_7.ppm eight_8.ppm eight_9.ppm 
+Cluster 8: four_1.ppm four_2.ppm four_3.ppm four_4.ppm four_6.ppm four_7.ppm four_8.ppm four_9.ppm 
+Cluster 9: four_10.ppm 
